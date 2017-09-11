@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\incremental\\mergeF0DebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "outputFile": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\incremental\\mergeF0DebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 198
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\colors.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -49,7 +49,7 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 329
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 393
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -107,7 +107,7 @@
                     "endOffset": 617
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 708
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 811
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 914
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1019
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1126
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1235
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1344
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1453
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1562
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 1671
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 1778
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 1881
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 2000
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -375,7 +375,7 @@
                     "endOffset": 2155
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -396,7 +396,7 @@
                     "endOffset": 2310
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -416,7 +416,7 @@
                     "endOffset": 2415
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -435,7 +435,7 @@
                     "endOffset": 2536
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -454,7 +454,7 @@
                     "endOffset": 2637
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -474,7 +474,7 @@
                     "endOffset": 2784
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -495,7 +495,7 @@
                     "endOffset": 2925
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -515,7 +515,7 @@
                     "endOffset": 3028
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -534,7 +534,7 @@
                     "endOffset": 3147
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -553,7 +553,7 @@
                     "endOffset": 3254
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -572,7 +572,7 @@
                     "endOffset": 3357
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -592,7 +592,7 @@
                     "endOffset": 3512
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -613,7 +613,7 @@
                     "endOffset": 3683
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -634,7 +634,7 @@
                     "endOffset": 3832
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -655,7 +655,7 @@
                     "endOffset": 3997
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 4154
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -697,7 +697,7 @@
                     "endOffset": 4305
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -717,7 +717,7 @@
                     "endOffset": 4424
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -737,7 +737,7 @@
                     "endOffset": 4796
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -758,7 +758,7 @@
                     "endOffset": 4945
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -779,7 +779,7 @@
                     "endOffset": 5094
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -799,7 +799,7 @@
                     "endOffset": 5206
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -818,7 +818,7 @@
                     "endOffset": 5353
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -838,7 +838,7 @@
                     "endOffset": 5506
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -859,7 +859,7 @@
                     "endOffset": 5653
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -879,7 +879,7 @@
                     "endOffset": 5728
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -898,7 +898,7 @@
                     "endOffset": 5817
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -917,7 +917,7 @@
                     "endOffset": 5904
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -936,7 +936,7 @@
                     "endOffset": 6005
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
@@ -955,7 +955,7 @@
                     "endOffset": 6108
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -975,7 +975,7 @@
                     "endOffset": 9176
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -996,7 +996,7 @@
                     "endOffset": 9362
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 111,
                         "startColumn": 4,
@@ -1017,7 +1017,7 @@
                     "endOffset": 12442
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 114,
                         "startColumn": 4,
@@ -1038,7 +1038,7 @@
                     "endOffset": 12640
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 158,
                         "startColumn": 4,
@@ -1059,7 +1059,7 @@
                     "endOffset": 12840
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 161,
                         "startColumn": 4,
@@ -1080,7 +1080,7 @@
                     "endOffset": 12963
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -1101,7 +1101,7 @@
                     "endOffset": 13086
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1122,7 +1122,7 @@
                     "endOffset": 13199
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
@@ -1143,7 +1143,7 @@
                     "endOffset": 13382
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -1164,7 +1164,7 @@
                     "endOffset": 13513
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -1185,7 +1185,7 @@
                     "endOffset": 13714
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -1205,7 +1205,7 @@
                     "endOffset": 13803
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 178,
                         "startColumn": 4,
@@ -1224,7 +1224,7 @@
                     "endOffset": 13914
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1244,7 +1244,7 @@
                     "endOffset": 14147
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -1264,7 +1264,7 @@
                     "endOffset": 14248
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1283,7 +1283,7 @@
                     "endOffset": 14343
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -1302,7 +1302,7 @@
                     "endOffset": 14466
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -1321,7 +1321,7 @@
                     "endOffset": 14595
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
@@ -1340,7 +1340,7 @@
                     "endOffset": 14712
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -1360,7 +1360,7 @@
                     "endOffset": 14889
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1380,7 +1380,7 @@
                     "endOffset": 14988
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1400,7 +1400,7 @@
                     "endOffset": 15123
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1421,7 +1421,7 @@
                     "endOffset": 15266
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1442,7 +1442,7 @@
                     "endOffset": 15401
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1463,7 +1463,7 @@
                     "endOffset": 15520
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1484,7 +1484,7 @@
                     "endOffset": 15721
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1505,7 +1505,7 @@
                     "endOffset": 15840
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1525,7 +1525,7 @@
                     "endOffset": 15933
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1544,7 +1544,7 @@
                     "endOffset": 16044
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1563,7 +1563,7 @@
                     "endOffset": 16100
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -1583,7 +1583,7 @@
                     "endOffset": 16207
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -1604,7 +1604,7 @@
                     "endOffset": 16402
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1625,7 +1625,7 @@
                     "endOffset": 16513
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1646,7 +1646,7 @@
                     "endOffset": 16646
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1666,7 +1666,7 @@
                     "endOffset": 16741
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1685,7 +1685,7 @@
                     "endOffset": 16832
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1704,7 +1704,7 @@
                     "endOffset": 16923
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -1723,7 +1723,7 @@
                     "endOffset": 17040
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1743,7 +1743,7 @@
                     "endOffset": 17179
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 4,
@@ -1764,7 +1764,7 @@
                     "endOffset": 17324
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 1,
@@ -1784,7 +1784,7 @@
                     "endOffset": 17395
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 225,
                         "startColumn": 4,
@@ -1803,7 +1803,7 @@
                     "endOffset": 17478
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -1823,7 +1823,7 @@
                     "endOffset": 18158
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 227,
                         "startColumn": 4,
@@ -1843,7 +1843,7 @@
                     "endOffset": 18215
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
@@ -1862,7 +1862,7 @@
                     "endOffset": 18273
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -1882,7 +1882,7 @@
                     "endOffset": 18967
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -1903,7 +1903,7 @@
                     "endOffset": 19673
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -1924,7 +1924,7 @@
                     "endOffset": 19832
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1945,7 +1945,7 @@
                     "endOffset": 19991
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1965,7 +1965,7 @@
                     "endOffset": 20110
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,
@@ -1984,7 +1984,7 @@
                     "endOffset": 20239
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
@@ -2004,7 +2004,7 @@
                     "endOffset": 20410
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 265,
                         "startColumn": 4,
@@ -2025,7 +2025,7 @@
                     "endOffset": 20576
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 268,
                         "startColumn": 4,
@@ -2045,7 +2045,7 @@
                     "endOffset": 20705
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 271,
                         "startColumn": 4,
@@ -2065,7 +2065,7 @@
                     "endOffset": 20876
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -2085,7 +2085,7 @@
                     "endOffset": 21007
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 275,
                         "startColumn": 4,
@@ -2105,7 +2105,7 @@
                     "endOffset": 21177
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 276,
                         "startColumn": 4,
@@ -2126,7 +2126,7 @@
                     "endOffset": 21352
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 279,
                         "startColumn": 4,
@@ -2147,7 +2147,7 @@
                     "endOffset": 21693
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 282,
                         "startColumn": 4,
@@ -2168,7 +2168,7 @@
                     "endOffset": 21891
                 },
                 "from": {
-                    "file": "C:\\Users\\cornelius.staude\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\cornelius.staude\\MobileAppTest\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

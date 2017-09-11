@@ -8,3 +8,16 @@ TextField {
     padding: 10;
     font-size: 13;
 }
+
+Actionbar {
+    background-color: black;
+    color:white;
+}
+
+.small-spacing {
+    margin: 5;
+}
+
+.medium-spacing {
+    margin: 10;
+}

@@ -3,75 +3,66 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_7dcb6db3ce8475dd923466b6615704f1a2ec4f4f.jar" />
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_92c33340e3b0ad6fef2162b4f993a69a259897d4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\Groceries-runtime-unspecified_a5d2b17a73b5e188df65d635d603af784cbf3f90.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_a92701dc03d85b952be6689241ed4119c4539864.jar" />
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_c3cf8271c2cffe51c6dfb19b7f1713016b51d4c2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_7cddf9302f9e6a4ac0b2d8a5d740bd0d6cadc9ad.jar" />
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_809cb94bcfa523701f4b113b87e8182d10be5e97.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_2387a86c67581ce319a4292124e61fff557b3646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_e60574256e132e4562e0dfd4b55290b31cea23c0.jar" />
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_ea113131b4b65a650731b2b74878e1b1f1a3b756.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_596cbaca8de2e46c58169f09788a86063a579a79.jar" />
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_4fcde94e77f1d1ab3136bba91a06f8949a56d954.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_7535ae8ff1430d551f84b2b8394c884907f501a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_d53252198d52c64569fcbf0653b00b320d8042c1.jar" />
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_e04364eba0e401135f6a3b661d278dec4f311ff8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,70 +71,79 @@
         optimize="true"
         revision="26.0.1"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_3bbd963d3a9594dc0741d104d3dc360567b8c8ea.jar" />
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_3bbd963d3a9594dc0741d104d3dc360567b8c8ea.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_6015feaad1de31922f5f31159d1cf6a1e7c9acfb.jar" />
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_439b8fb539f5ebe284571f73491fe5efb9a0b721.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_636a8aa364d3691bbdc757cb5f69f2f0c69b7ffb.jar" />
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\Groceries-runtime-unspecified_2770191682468931f32ede1839a92f66fb476eb0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_54c52428f0f56a294f4b0ca0b26c3ea081ea189b.jar" />
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_4814b78c6db0ffde104eff900250b76d7985d5bf.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_5b121cf28f1c253ef53d5f375ed202b0b1b8e7e4.jar" />
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_516e5e2a68692198f378cb289b4d9bb7847176f9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_cda1e6d6af4d119f27d6579728478d3d344c8800.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_f21cb0359888e757ba8676952a5907a6959d07d1.jar" />
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_ba68616cb65390375f971ba87d28de4ab9cd863f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="C:\Users\cornelius.staude\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_075d8df23ff2ddc01ef8d2499a5e24fd8fa5d1ff.jar" />
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_de32a30149c5fd31d3789b4730e9e7748305c4da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_d7f91912a662f8c3d03a781b4b8f14e23dc6f5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\cornelius.staude\MobileAppTest\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_9aa98722df0795fdd851172f8e97d23146f78b0a.jar" />
     </item>
 
 </items>
